@@ -30,7 +30,11 @@ The project is under the hat of" todo-list" directory.We have two files till now
       *VScode editor
 
 
-----------------------------Challenges and Learning Opportunities----------------------
+----------------------------Learning Opportunities----------------------
 
       *Learning plain JavaScript.
       *Working with the file syestem to read,write and update tasks number.
+      *Learn to write efficient and easy code
+      *Learn to communicate with the other mentor to more clear way
+      *Learn to write the readme.md to make it easier for others to understand the code.
+      *Learn the debugging.  
