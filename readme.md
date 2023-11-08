@@ -11,6 +11,7 @@ The project is under the hat of" todo-list" directory.We have two files till now
 "todo.js" is the heart of the functionality.we write all the functions till now to complete the functionality through the file system we used to read, write or add tasks. 
 There is also an important part to give the information about the project and have all the details of the project called "readme.md"
 "readme.md"is also created to explain the brief details of the project.
+"gitignore" is created to untrack files or directories.
 
 -----------------------------------Features-------------------------------------
   
