@@ -10,15 +10,14 @@ The project is under the hat of **todo-list** directory.We have two files till n
 
 - **todo.js** is the heart of the functionality.we write all the functions till now to complete the functionality through the file system we used to read, write or add tasks.
 
-- **readme**: *There is also an important part to give the information about the project and have all the details of the project called **readme.md**.* **readme.md**is also created to explain the brief details of the project.
+- **readme**: *There is also an important part to give the information about the project and have all the details of the project called **readme.md**.* **readme.md** is also created to explain the brief details of the project.
 
-**gitignore** *is created to untrack files or directories.*
+ **gitignore**: *another file called gitignore is created to untrack files or directories.*
 ## Features
 ### Reading Tasks:  
-The list of tasks is displayed to the console if there will be no new added task .For implementing this features we can type the  following command on command-line.
->**node filename**.It will read the text file .It also count the tasks while reading and print it to console.for example:-
+The list of tasks is displayed to the console if there will be no new added task .For implementing this features we can type the  following command on command-line.**node filename**.It will read the text file .It also count the tasks while reading and print it to console.for example:-
 
->**node todo.js**
+**$node todo.js**
 
 3 tasks to do:
 
@@ -31,7 +30,7 @@ The list of tasks is displayed to the console if there will be no new added task
 ### *Add Tasks: 
 We can add task or write tasks to the todo-list by adding task from the command line by  **adding** task name .One important feature while writing is,it also print the message and the number of the task it is going to  add to the text file.
 
-*The message printed to the console like this after typing the command:*
+*The message printed to the console like this after typing the  following command:*
 
 **$ node todo.js add "swimming"**
 
