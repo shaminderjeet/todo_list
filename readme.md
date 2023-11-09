@@ -6,7 +6,7 @@ The project is under the hat of" todo-list" directory.We have two files till now
    - "todo.js"
    - "tasks.txt"
 **tasks.txt** consists all the tasks  either we have already write directly in text file or write from the command line through the **command line arguments**.
-**todo.js** is the heart of the functionality.we write all the functions till now to complete the functionality through the file system we used to read, write or add tasks. 
+### **todo.js** is the heart of the functionality.we write all the functions till now to complete the functionality through the file system we used to read, write or add tasks. 
 There is also an important part to give the information about the project and have all the details of the project called **readme.md**
 **readme.md**is also created to explain the brief details of the project.
 **gitignore** is created to untrack files or directories.
@@ -25,13 +25,13 @@ We can add task or write tasks to the todo-list by adding task from the command 
 **$ node todo.js add "swimming"**
 "swimming" added (5 task to do:)
 ### Technologies
--Used plain javascript .
--Version Control: Use Git for version control to track changes and collaborate with others. 
--VScode editor
+- Used plain javascript .
+- Version Control: Use Git for version control to track changes and collaborate with others. 
+- VScode editor
 ### Learning Opportunities
--Learning plain JavaScript.
--Working with the file syestem to read,write and update tasks.
--Learn to write efficient and easy code.
--Learn to communicate with the other mentor to more clear way.
--Learn to write the readme.md to make it easier for others to understand the code.
--Learn the debugging.  
+- Learning plain JavaScript.
+- Working with the file syestem to read,write and update tasks.
+- Learn to write efficient and easy code.
+- Learn to communicate with the other mentor to more clear way.
+- Learn to write the readme.md to make it easier for others to understand the code.
+- Learn the debugging.  
