@@ -1,15 +1,17 @@
-                        Project:-todo-list
-----------------------------------Description---------------------------------------------
+                        # Project:-To-do-list
+                        
+                      ## Description
+This project is  simple and powerful application for managing tasks and staying organized.This todo application is simple way  for "adding","reading" tasks.This project is an excellent way to practice coding skills and provide more learning oppertunities.Working on this project not only reinforces fundamental concepts but also presents challenging problem-solving opportunities along the way.It enhance my knowlege and give me strong understanding of core aspects of javascript language.
 
-    This project is  simple and powerful application for managing tasks and staying organized.This todo application is simple way  for "adding","reading" tasks.This project is an excellent way to practice coding skills and provide more learning oppertunities.Working on this project not only reinforces fundamental concepts but also presents challenging problem-solving opportunities along the way.It enhance my knowlege and give me strong understanding of core aspects of javascript language.
---------------------------------------Implementation---------------------------------------  
+                        ## Implementation  
 The project is under the hat of" todo-list" directory.We have two files till now to complete the desired functionality
-   "todo.js"
-   "tasks.txt"
+   - "todo.js"
+   - "tasks.txt"
   
-"tasks.txt"consists all the tasks  either we have already write directly in text file or write from the command line trough the "command line arguments".
-"todo.js" is the heart of the functionality.we write all the functions till now to complete the functionality through the file system we used to read, write or add tasks. 
-There is also an important part to give the information about the project and have all the details of the project called "readme.md"
+`**tasks.txt**`consists all the tasks  either we have already write directly in text file or write from the command line through the `**command line arguments**`.
+`**todo.js**` is the heart of the functionality.we write all the functions till now to complete the functionality through the file system we used to read, write or add tasks. 
+There is also an important part to give the information about the project and have all the details of the project called ``**readme.md*
+
 "readme.md"is also created to explain the brief details of the project.
 "gitignore" is created to untrack files or directories.
 
